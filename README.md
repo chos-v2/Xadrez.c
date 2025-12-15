@@ -3,7 +3,7 @@
 ```markdown
 # ♟️ Xadrez em C
 
-Implementação básica de um jogo de **xadrez** em linguagem C, executado no terminal.
+Implementação básica de um jogo de **xadrez** para a faculdade, em linguagem C, executado no terminal.
 
 ---
 
